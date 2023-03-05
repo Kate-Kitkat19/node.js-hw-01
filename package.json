@@ -1,0 +1,28 @@
+{
+  "name": "node.js-hw-01",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kate-Kitkat19/node.js-hw-01.git"
+  },
+  "keywords": [],
+  "author": "Kate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kate-Kitkat19/node.js-hw-01/issues"
+  },
+  "homepage": "https://github.com/Kate-Kitkat19/node.js-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "uuid": "^9.0.0"
+  }
+}
